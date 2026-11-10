@@ -22,7 +22,7 @@ All four members contributed functional Python code to the machine learning pipe
 ---
 
 ## Project Structure
-
+```text
 ai-project-team-75/
 │
 ├── data/
