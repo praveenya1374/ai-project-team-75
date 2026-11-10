@@ -19,30 +19,40 @@ AI101: Data Science and AI Essentials with Python, School of AI and Data Enginee
 
 All four members contributed functional Python code to the machine learning pipeline (see commit history).
 
+---
 
+## Project Structure
 
+ai-project-team-75/
+│
+├── data/
+│   ├── india_ev_car_features_price.csv  #dataset
+│
+├── src/
+│   ├── AI PROJECT MAIN CODE FILE.ipynb  #main_code
+│   
+├── outputs/
+│   ├── actual vs predicted ev prices graph.png
+│   ├── battery capacity vs electric vehicle price graph.png
+│   ├── correlation analysis of ev features.png
+│   ├── 
+│   ├── distribution of electric vehicle prices.png
+│   └── driving range vs electric vehicle price graph.png
+│
+├── EV_Price_Prediction_Team75.pdf       #project documentation
+├── README.md
+├── requirements.txt                     #required python libraries
+└── .gitignore
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Setup & Installation
 
-Tested on Python 3.10+ (Windows, macOS, Ubuntu).
+You are advised to follow the instructions given below to run as we have used jupyter notebook in this project for convenience.
+
+You need Python and Git installed. We tested this on Python 3.14.6 on Windows and macOS.
+
+Open a terminal (PowerShell on Windows) and type these lines one by one.
 
 **1. Clone the repository**
 ```bash
@@ -67,4 +77,15 @@ source venv/bin/activate
 **4. Install Dependencies**
 ```bash
 pip install -r requirements.txt
+```
+## How to run
+
+1. In the same terminal, with `(venv)` showing, type:
+   ```
+   python -m notebook
+   ```
+2. A browser page opens. Click the src folder and then AI PROJECT MAIN CODE FILE.ipynb.
+3. At the top, click Kernel, then Restart Kernel and Run All Cells.
+4. Wait for all the cells to finish. The charts and predicted output of a demo electric vehicle will appear. They should look like the screenshots under the outputs folder.
+   
 
