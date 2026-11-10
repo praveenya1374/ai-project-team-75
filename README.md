@@ -15,4 +15,8 @@ AI101: Data Science and AI Essentials with Python, School of AI and Data Enginee
 | MALLIPUDI PRAVEENYA SAI | 2026EEB1374 | @praveenya1374 | Documentation lead |
 | VUSHAKOYYALA SRIRAM | 2026MCB1581 | @VushakoyyalaSriram | Video lead |
 | MD AAYAN ALI | 2026EEB1377 | @Aayan-Ali-IIT | PPT lead |
-| ASHOK THALOR | 2026AIB1022 | @AshokThalor | Execution lead |
+| ASHOK THALOR | 2026AIB1022 | @2026aib1022-hub | Execution lead |
+
+All four members contributed functional Python code to the machine learning pipeline (see commit history).
+
+
