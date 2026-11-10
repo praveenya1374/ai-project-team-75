@@ -44,7 +44,7 @@ ai-project-team-75/
 ├── requirements.txt                     #required python libraries
 └── .gitignore
 
----
+```
 
 ## Setup & Installation
 
