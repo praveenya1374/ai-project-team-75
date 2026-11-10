@@ -13,6 +13,6 @@ AI101: Data Science and AI Essentials with Python, School of AI and Data Enginee
 | Member | Entry no. | GitHub handle | Role |
 |---|---|---|---|
 | MALLIPUDI PRAVEENYA SAI | 2026EEB1374 | @praveenya1374 | Documentation lead |
-| ASHOK THALOR | 2026AIB | @Keshav-Garg21 | Video lead |
-| Pratyush Rao Elchuri | 2026MCB1556 | @pratyushh1108 | PPT lead |
-| Rudra Baleshkumar Parde | 2026EEB1401 | @RUDRAPARDE | Execution lead |
+| VUSHAKOYYALA SRIRAM | 2026MCB1581 | @VushakoyyalaSriram | Video lead |
+| MD AAYAN ALI | 2026EEB1377 | @Aayan-Ali-IIT | PPT lead |
+| ASHOK THALOR | 2026AIB1022 | @AshokThalor | Execution lead |
