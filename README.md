@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ## PPT and Video links
 
---PPT:[EV_Price_Prediction_Team75.pdf](docs/EV_Price_Prediction_Team75.pdf)
+--PPT:[EV_Price_Prediction_Team75.pdf](https://github.com/praveenya1374/ai-project-team-75/blob/main/docs/EV_Price_Prediction_Team75%20.pdf)
 
 --Video:
 
