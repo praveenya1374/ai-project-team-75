@@ -87,5 +87,12 @@ pip install -r requirements.txt
 2. A browser page opens. Click the src folder and then AI PROJECT MAIN CODE FILE.ipynb.
 3. At the top, click Kernel, then Restart Kernel and Run All Cells.
 4. Wait for all the cells to finish. The charts and predicted output of a demo electric vehicle will appear. They should look like the screenshots under the outputs folder.
-   
+
+## PPT and Video links
+
+--PPT:https://acrobat.adobe.com/id/urn:aaid:sc:AP:56f17488-1b49-4c08-9433-f4c79e686261
+--Video:
+
+## AI Disclosure
+
 
