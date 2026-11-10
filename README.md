@@ -20,3 +20,51 @@ AI101: Data Science and AI Essentials with Python, School of AI and Data Enginee
 All four members contributed functional Python code to the machine learning pipeline (see commit history).
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Setup & Installation
+
+Tested on Python 3.10+ (Windows, macOS, Ubuntu).
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/praveenya1374/ai-project-team-75.git
+cd ai-project-team-75
+```
+
+**2. Create a virtual environment**
+```bash
+python -m venv venv
+```
+
+**3. Activate the virtual environment**
+* **On Windows:**
+```bash
+venv\Scripts\activate
+```
+* **On macOS/Linux:**
+```bash
+source venv/bin/activate
+```
+**4. Install Dependencies**
+```bash
+pip install -r requirements.txt
+
