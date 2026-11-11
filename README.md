@@ -68,6 +68,9 @@ python -m venv venv
 **3. Activate the virtual environment**
 * **On Windows:**
 ```bash
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+```
+```bash
 venv\Scripts\activate
 ```
 * **On macOS/Linux:**
@@ -76,7 +79,7 @@ source venv/bin/activate
 ```
 **4. Install Dependencies**
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 ## How to run
 
