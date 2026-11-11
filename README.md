@@ -54,6 +54,11 @@ You need Python and Git installed. We tested this on Python 3.14.6 on Windows an
 
 Open a terminal (PowerShell on Windows) and type these lines one by one.
 
+Do make sure that the jupyter notebook is installed in the terminal using the command
+```bash
+python -m notebook
+```
+
 **1. Clone the repository**
 ```bash
 git clone https://github.com/praveenya1374/ai-project-team-75.git
@@ -93,9 +98,9 @@ python -m pip install -r requirements.txt
 
 ## PPT and Video links
 
---PPT:[EV_Price_Prediction_Team75.pdf](https://github.com/praveenya1374/ai-project-team-75/blob/main/docs/EV_Price_Prediction_Team75%20.pdf)
+--PPT:[EV_Price_Prediction_Team75.pdf](https://github.com/praveenya1374/ai-project-team-75/blob/main/Docs/EV_Price_Prediction_Team75%20(1).pdf)
 
---Video:
+--Video:https://drive.google.com/file/d/1_bDoaIV8udDKuJvNwUpi_lCUJhIDCyW7/view?usp=drivesdk
 
 ## AI Disclosure
 
